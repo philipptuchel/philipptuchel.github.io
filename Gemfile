@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'tzinfo-data'   # <-- nach oben ziehen
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'

@@ -80,36 +80,45 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
-    }
+/* Custom class for profile without avatar */
+.profile-without-avatar {
+  padding-top: 2em;
+  
+  .author__content {
+    margin-top: 0;
   }
 }
 
+/* Improve icon display */
+.icon-pad-right {
+  display: inline-block;
+  width: 1.25em;
+  text-align: center;
+  margin-right: 0.5em;
+}
+
+/* Fix for all icons */
+.author__urls .fab,
+.author__urls .fas,
+.author__urls .far,
+.author__urls .ai {
+  display: inline-block;
+  width: 1.25em;
+  text-align: center;
+  margin-right: 0.25em;
+}
+
+.author__avatar {
+  display: none; /* Hide the avatar section completely */
+}
+
 .author__content {
-  display: table-cell;
+  display: block;
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  padding-left: 0;
+  padding-right: 0;
   line-height: 1;
+  margin-top: 15px; /* Add some top margin */
 
   @include breakpoint($large) {
     display: block;
