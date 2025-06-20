@@ -109,7 +109,26 @@
 }
 
 .author__avatar {
-  display: none; /* Hide the avatar section completely */
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
+  height: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;       /* Original Academic Pages size */
+    border-radius: 50%;     /* Makes it circular */
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid var(--global-border-color);
+    }
+  }
 }
 
 .author__content {

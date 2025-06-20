@@ -22,7 +22,7 @@ repository               : "philipptuchel/philipptuchel.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "IMG_93083.jpg"
   name             : "Philipp Tuchel"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics PhD Student"
