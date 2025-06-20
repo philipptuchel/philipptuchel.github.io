@@ -93,12 +93,12 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : true
+  hide                   : false  # Enable RSS feed for search engines
   path                   : # blank (default) uses feed.xml
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "liEejG7lTbL7fTsqnUEkbdbnDqnB-9K_lcp5YziTbKA"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -111,20 +111,20 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "profile.png"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Philipp Tuchel"
+  links: ["https://github.com/philipptuchel", "https://arxiv.org/search/?query=Tuchel%2C+P&searchtype=all&abstracts=show&order=-announced_date_first&size=50"]
 
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4" # Enable Google Analytics
   google:
-    tracking_id          :
+    tracking_id          : "PASTE_YOUR_GA4_MEASUREMENT_ID_HERE"
 
 
 # Reading Files

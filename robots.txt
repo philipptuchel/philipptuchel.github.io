@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Allow all web crawlers to access all content
+# Point to sitemap for better crawling
+Sitemap: https://philipptuchel.github.io/sitemap.xml 
