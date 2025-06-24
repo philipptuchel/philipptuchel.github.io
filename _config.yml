@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Philipp Tuchel -- Personal Website"
+title                    : "Philipp Tuchel | Personal Website"
 title_separator          : "-"
 name                     : &name "Philipp Tuchel"
 description              : &description "Personal website and portfolio"
