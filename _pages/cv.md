@@ -69,7 +69,7 @@ redirect_from:
 
 ## Research Visits
 
-* **University of Passau** (May, 2025)
+* **University of Passau** (May and June, 2025)
   * Host: Prof. Dr. Joscha Prochno
 
 * **Technical University of Munich** (November, 2024)
