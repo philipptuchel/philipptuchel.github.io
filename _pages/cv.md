@@ -36,6 +36,9 @@ redirect_from:
 
 ## Talks
 
+* **University of Passau, Research Group Seminar** (May 2025) - *Invited*  
+  Research presentation at Prof. Dr. Joscha Prochno's research group
+
 * **German Probability and Stochastic Days (GPSD)** (Dresden, March 2025) - *Contributed*  
 
 * **SPP 2265: 3rd Workshop on Stochastic Geometry and Point Processes** (Osnabrück, November 2024) - *Invited*  
@@ -65,6 +68,9 @@ redirect_from:
 * **German Probability and Stochastic Days (GPSD)**, University of Duisburg-Essen (March 2023)
 
 ## Research Visits
+
+* **University of Passau** (May, 2025)
+  * Host: Prof. Dr. Joscha Prochno
 
 * **Technical University of Munich** (November, 2024)
   * Host: Prof. Dr. Nina Gantert
