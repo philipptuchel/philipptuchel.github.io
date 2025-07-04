@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Philipp Tuchel"
 excerpt: "Personal website and portfolio"
 author_profile: true
 redirect_from: 
