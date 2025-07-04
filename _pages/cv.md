@@ -39,7 +39,7 @@ redirect_from:
 * **University of Passau, Research Group Seminar** (May 2025) - *Invited*  
   Research presentation at Prof. Dr. Joscha Prochno's research group
 
-* **German Probability and Stochastic Days (GPSD)** (Dresden, March 2025) - *Contributed*  
+* **German Probability and Statistic Days (GPSD)** (Dresden, March 2025) - *Contributed*  
 
 * **SPP 2265: 3rd Workshop on Stochastic Geometry and Point Processes** (Osnabrück, November 2024) - *Invited*  
 
@@ -55,7 +55,7 @@ redirect_from:
 
 ## Conference/Workshop Participation
 
-* **German Probability and Stochastic Days (GPSD)**, University of Dresden (March 2025)
+* **German Probability and Statistic Days (GPSD)**, University of Dresden (March 2025)
 * **SPP 2265: 3rd Workshop on Stochastic Geometry**, University of Osnabrück (November 2024)
 * **Bernoulli-ISM 11th World Congress**, Ruhr University Bochum (August 2024)
 * **Approximations and Concentration of Measure in High Dimension**, University of Bielefeld (June 2024)
