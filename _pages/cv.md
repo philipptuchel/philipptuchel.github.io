@@ -27,6 +27,7 @@ redirect_from:
 
 ## Teaching
 
+* Introduction to Probability Theory and Mathematical Statistics (Winter 2025/2026)
 * Linear Algebra and Geometry I (Winter 2024/2025)
 * Problem-Solving Strategies for School and Mathematical Olympiads (Winter 2024/2025)
 * Panorama of Elementary Mathematics (Summer 2024)
@@ -35,6 +36,8 @@ redirect_from:
 * Analysis I (Winter 2019/2020)
 
 ## Talks
+
+* **Doktorand:innentreffen der Stochastik 2025** (Mannheim, August 2025) - *Contributed*  
 
 * **University of Passau, Research Group Seminar** (May 2025) - *Invited*  
   Research presentation at Prof. Dr. Joscha Prochno's research group
@@ -55,6 +58,7 @@ redirect_from:
 
 ## Conference/Workshop Participation
 
+* **Doktorand:innentreffen der Stochastik 2025**, Mannheim (August 2025)
 * **German Probability and Statistic Days (GPSD)**, University of Dresden (March 2025)
 * **SPP 2265: 3rd Workshop on Stochastic Geometry**, University of Osnabrück (November 2024)
 * **Bernoulli-ISM 11th World Congress**, Ruhr University Bochum (August 2024)
