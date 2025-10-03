@@ -6,6 +6,8 @@ permalink: /publication/2025-10-03-orthogonal-matrices-stiefel
 date: 2025-10-03
 venue: 'preprint'
 authors: 'Philipp Tuchel'
+paperurl: 'https://arxiv.org/abs/2509.24538'
+citation: 'P. Tuchel (2025). &quot;Large and Moderate Deviations for Entries of Orthogonal Matrices and the Stiefel Manifold.&quot; <i>preprint</i>.'
 ---
 
 <!-- more -->
