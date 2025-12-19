@@ -37,6 +37,8 @@ redirect_from:
 
 ## Talks
 
+* **UA Ruhr Probability Seminar** (Bochum, October 2025) - *Invited*  
+
 * **Doktorand:innentreffen der Stochastik 2025** (Mannheim, August 2025) - *Contributed*  
 
 * **University of Passau, Research Group Seminar** (May 2025) - *Invited*  
@@ -87,3 +89,7 @@ redirect_from:
 
 * **University of Münster** (July, 2023)
   * Host: Prof. Dr. Zakhar Kabluchko
+
+## Other activities
+
+* **Evaluation Committee**, Faculty of Mathematics, Ruhr University Bochum
