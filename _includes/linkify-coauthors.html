@@ -1,0 +1,7 @@
+{%- assign out = include.text | default: "" -%}
+{%- for person in site.data.coauthor_links -%}
+  {%- capture link -%}<a href="{{ person.url }}">{{ person.name }}</a>{%- endcapture -%}
+  {%- assign out = out | replace: person.name, link -%}
+{%- endfor -%}
+{{- out -}}
+

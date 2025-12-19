@@ -60,6 +60,7 @@ redirect_from:
 
 ## Conference/Workshop Participation
 
+* **UA Ruhr Probability Seminar**, Bochum (October 2025)
 * **Doktorand:innentreffen der Stochastik 2025**, Mannheim (August 2025)
 * **German Probability and Statistic Days (GPSD)**, University of Dresden (March 2025)
 * **SPP 2265: 3rd Workshop on Stochastic Geometry**, University of Osnabrück (November 2024)
