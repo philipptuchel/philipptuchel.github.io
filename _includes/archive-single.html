@@ -35,7 +35,7 @@
     </h2>
     
     {% if post.authors %}
-    {% assign filtered_authors = post.authors | replace: ", Philipp Tuchel", "" | replace: "Philipp Tuchel, ", "" | replace: "Philipp Tuchel", "" %}
+    {% assign filtered_authors = post.authors | replace: "Jointly with ", "" | replace: ", Philipp Tuchel", "" | replace: "Philipp Tuchel, ", "" | replace: "Philipp Tuchel", "" %}
     {% if filtered_authors != "" %}
     <p class="archive__item-authors" itemprop="author"><strong>Jointly with:</strong> {% include linkify-coauthors.html text=filtered_authors %}</p>
     {% endif %}
