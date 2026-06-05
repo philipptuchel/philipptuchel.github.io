@@ -60,8 +60,8 @@ redirect_from:
 
 ## Conference/Workshop Participation
 
-* **Benchmarks in Leipzig**, Max Planck Institute for Mathematics in the Sciences, Leipzig (May 11-13, 2026)
-* **Artificial Intelligence: Probabilistic Concepts** Spring School, Technical University of Darmstadt (March 16-20, 2026)
+* **Benchmarks in Leipzig**, Max Planck Institute for Mathematics in the Sciences, Leipzig (May 2026)
+* **Artificial Intelligence: Probabilistic Concepts** Spring School, Technical University of Darmstadt (March 2026)
 * **UA Ruhr Probability Seminar**, Bochum (October 2025)
 * **Doktorand:innentreffen der Stochastik 2025**, Mannheim (August 2025)
 * **German Probability and Statistic Days (GPSD)**, University of Dresden (March 2025)
