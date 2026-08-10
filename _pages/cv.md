@@ -11,7 +11,10 @@ redirect_from:
 
 ## Short CV
 
-* **PhD in Mathematics** at Ruhr University Bochum (Since July 2023) 
+* **Postdoctoral Researcher in Mathematics** at the [Weierstrass Institute for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de/) in Berlin (from September 2026)
+
+* **PhD in Mathematics** at Ruhr University Bochum (July 2023 - June 2026)
+  * Degree awarded *summa cum laude*
   * Supervisor: [Prof. Dr. Christoph Thäle](https://sites.google.com/view/christophthaele), Second Supervisor: [Prof. Dr. Joscha Prochno](https://joschaprochno.jimdofree.com/)
 
 * **M.Sc. in Mathematics** at Ruhr University Bochum, with distinction (2021-2023)
