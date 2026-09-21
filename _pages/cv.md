@@ -11,7 +11,7 @@ redirect_from:
 
 ## Short CV
 
-* **Postdoctoral Researcher in Mathematics** at the [Weierstrass Institute for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de/) in Berlin (from September 2026)
+* **Postdoctoral Researcher in Mathematics** at the [Weierstrass Institute for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de/) in Berlin (since September 2026)
 
 * **PhD in Mathematics** at Ruhr University Bochum (July 2023 - June 2026)
   * Degree awarded *summa cum laude*

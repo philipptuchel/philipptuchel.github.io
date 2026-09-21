@@ -9,12 +9,10 @@ Feel free to contact me regarding my research, collaboration opportunities, or a
 
 ### Contact Information
 
-**Email**: [philipp.tuchel@ruhr-uni-bochum.de](mailto:philipp.tuchel@ruhr-uni-bochum.de)
+**Email**: [[lastname]@wias-berlin.de](mailto:tuchel@wias-berlin.de)
 
 **Location**:  
-Ruhr University Bochum  
-Faculty of Mathematics  
-Universitätsstraße 150  
-Office: IB 2/105  
-44801 Bochum  
+[Weierstrass Institute for Applied Analysis and Stochastics (WIAS)](https://www.wias-berlin.de/)  
+Office: 208  
+Berlin  
 Germany
